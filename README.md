@@ -1,4 +1,4 @@
-# Keyword_Detection
+# Keyword Detection
 This is a Repository for a Speech Recognition Model for Keyword Detection using Convolutional Neural Networks. The model takes raw audio as input and extracts MFCCs, which is used for classification. 
 
 ## Dataset
